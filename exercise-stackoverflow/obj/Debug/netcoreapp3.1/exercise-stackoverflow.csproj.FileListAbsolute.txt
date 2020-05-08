@@ -1,0 +1,13 @@
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\bin\Debug\netcoreapp3.1\exercise-stackoverflow.exe
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\bin\Debug\netcoreapp3.1\exercise-stackoverflow.deps.json
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\bin\Debug\netcoreapp3.1\exercise-stackoverflow.runtimeconfig.json
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\bin\Debug\netcoreapp3.1\exercise-stackoverflow.runtimeconfig.dev.json
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\bin\Debug\netcoreapp3.1\exercise-stackoverflow.dll
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\bin\Debug\netcoreapp3.1\exercise-stackoverflow.pdb
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\obj\Debug\netcoreapp3.1\exercise-stackoverflow.csprojAssemblyReference.cache
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\obj\Debug\netcoreapp3.1\exercise-stackoverflow.csproj.CoreCompileInputs.cache
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\obj\Debug\netcoreapp3.1\exercise-stackoverflow.AssemblyInfoInputs.cache
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\obj\Debug\netcoreapp3.1\exercise-stackoverflow.AssemblyInfo.cs
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\obj\Debug\netcoreapp3.1\exercise-stackoverflow.dll
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\obj\Debug\netcoreapp3.1\exercise-stackoverflow.pdb
+D:\source\CSharp Intermediate\exercise-stackoverflow\exercise-stackoverflow\obj\Debug\netcoreapp3.1\exercise-stackoverflow.genruntimeconfig.cache
